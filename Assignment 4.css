@@ -47,4 +47,48 @@ table {
 	border-spacing: 0;
 }
 
+p{
+ font-family: arial;
+}
 
+
+
+.Whole-block{
+	margin: auto;
+	width: 50%;
+	border: 1px solid black ;
+}
+
+.Banner-title-block{
+
+}
+
+.Banner{
+	width: 100%;
+}
+
+.Main-title{
+	font-size: 28px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.Sub-title{
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	padding-top: 10px;
+	padding-left: 15px;
+}
+
+.Body-block{
+	padding-bottom: 20px;
+}
+
+
+.Body-text{
+	margin-bottom: 15px;
+	padding-left: 15px;
+}
